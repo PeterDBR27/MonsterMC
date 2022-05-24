@@ -1,2 +1,0 @@
-# MonsterMC
-MonsterMC site
